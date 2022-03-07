@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I'm decent at __programming__ and great at _manual labor_. I may have chosen the wrong _education path_
